@@ -1,0 +1,35 @@
+body{
+    background-color: #add8e6;
+    background-size: cover;
+    height: 100vh;
+}
+
+button{
+    height: 60px;
+    width: 150px;
+    border: none;
+    background: tomato;
+    color: #ffffff;
+    outline: none;
+    box-shadow: 4px 4px 10px #acacac;
+}
+
+button:hover{
+    background: red;
+    box-shadow: none;
+    border: 4px solid white;
+}
+
+.responsive{
+    height: 60vh;
+    width: 80vh;
+    padding: 50px;
+    display: block;
+    margin: auto;
+}
+
+#ta_center{
+    text-align: center;
+    font-size: 3vh;
+    font-family: "Segoe UI";
+}

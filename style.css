@@ -1,0 +1,52 @@
+.pivot_menu .pivot_button, .pivot_menu .pivot_title{
+    color: #fcfcfc;
+}
+
+.pivot_menu{
+    width: 100vw;
+    background-color: #C62A88;
+    z-index: 10;
+}
+
+.cover{
+    background-image: url("./background.jpg");
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+}
+
+.bottom_left{
+    position: relative;
+    top: 60vh;
+    left: 8vh;
+    color: #fcfcfc;
+}
+
+.vert_space{
+    padding-top: 12vh;
+    padding-bottom: 12vh;
+}
+.content_padding{
+    padding: 16px;
+}
+
+.skill_color{
+    background: crimson;
+    color: #fcfcfc;
+}
+
+.footer{
+    width: 100vw;
+    background-color: #C62A88;
+}
+
+.contact_options{
+    font-size: 22px;
+    color: #fcfcfc;
+    padding: 8px 16px;
+}
+
+.social_icon{
+    width: 60px;
+    height: 60px;
+}
